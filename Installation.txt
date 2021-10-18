@@ -1,0 +1,25 @@
+1.JSON SERVER:
+   npm install -g json-server
+
+2.Download ngrok.exe
+
+3.React Native Project
+  package.json
+  "scripts":{
+   ....
+   "db": "json server -w stocks.json",
+   "tunnel": "ngrok http 3000",
+   }
+
+4.In command prompt:
+  To run json server:
+  npm run db
+   
+5.To run ngro(open ngrok.exe)
+  ngrok.exe http 3000
+
+6.Copy the link "/stocks" as baseUrl
+
+7. npx react-native start 
+
+8. npx react-native run-android

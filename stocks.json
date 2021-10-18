@@ -1,0 +1,60 @@
+{
+  "stocks": [
+    {
+      "stockName": "MLSB",
+      "transcationType": "sell",
+      "quantity": "200",
+      "amount": "10000",
+      "date": "2021-10-12",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "stockName": "JBLB",
+      "transcationType": "sell",
+      "quantity": "200",
+      "amount": "10000",
+      "date": "2021-10-12"
+    },
+    {
+      "id": 3,
+      "stockName": "NICA",
+      "transcationType": "buy",
+      "quantity": "200",
+      "amount": "10000",
+      "date": "2021-10-12"
+    },
+    {
+      "id": 4,
+      "stockName": "NABIL",
+      "transcationType": "buy",
+      "quantity": "200",
+      "amount": "10000",
+      "date": "2021-10-12"
+    },
+    {
+      "stockName": "NLIC",
+      "transcationType": "Buy",
+      "quantity": "1222",
+      "amount": "1345666",
+      "date": "219-67-4",
+      "id": 5
+    },
+    {
+      "stockName": "JBBL",
+      "transcationType": "Buy",
+      "quantity": "200",
+      "amount": "200000",
+      "date": "2021-11-12",
+      "id": 6
+    },
+    {
+      "stockName": "Adbl",
+      "transcationType": "Buy",
+      "quantity": "19",
+      "amount": "20000",
+      "date": "",
+      "id": 8
+    }
+  ]
+}
