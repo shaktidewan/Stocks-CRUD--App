@@ -56,7 +56,7 @@ const HomeScreen = ({ navigation })=>{
     return(
         <View style={styles.container}>
         <Button
-            title="ADD "
+            title="ADD STOCK"
             onPress={() => navigation.navigate('Add Stock')}
         />
         <View>
